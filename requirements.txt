@@ -1,0 +1,4 @@
+geopandas==0.11.*
+geoplot==0.5.1
+jupyterlab==3.4.*
+matplotlib==3.5.*
